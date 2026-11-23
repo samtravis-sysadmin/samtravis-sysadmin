@@ -1,0 +1,20 @@
+# Logs and generated output
+logs/
+output/
+*.log
+
+# Secrets and local files
+*.pfx
+*.cer
+*.pem
+*.key
+.env
+.env.*
+secrets/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
